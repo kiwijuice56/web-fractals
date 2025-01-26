@@ -1,4 +1,4 @@
-# fractal-fish
+# web-fractals
 A website for 2D and 3D fractals made with Godot, open-source code.
 
 ## Fractal repositories
